@@ -15,6 +15,11 @@
 }
 
 body {
+   background: var(--body-bg);
+   color: var(--body-color);
+}
+
+body {
     font-family: 'Fira Code', monospace;
     text-align: left;
     margin: 333x 333px 333px 333px;
