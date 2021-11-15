@@ -3,6 +3,8 @@
 {background-color: black}
 {color: white}
 
+body {
+
 a:link {
     color: green;
     text-decoration: none;
@@ -20,6 +22,8 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+    
+}  
 
 body {
     font-family: 'Fira Code', monospace;
