@@ -1,12 +1,5 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css);
 
-@media (prefers-color-scheme: dark) {
-   :root {
-       --body-bg: #000000;
-       --body-color: #FFFFFF;
-   }
-}
-
 body {
    background-color: #FFFFFF;
    color: #000000;
