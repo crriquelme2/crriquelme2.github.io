@@ -3,26 +3,12 @@
 {background-color: black}
 {color: white}
 
-body {
-
 a:link {
-    color: green;
     text-decoration: none;
 }
 
 a:visited {
-    color: red;
     text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-a:active {
-    text-decoration: underline;
-}
-    
 }  
 
 body {
