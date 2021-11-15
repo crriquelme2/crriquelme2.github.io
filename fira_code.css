@@ -1,8 +1,6 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css);
 
 body {
-    color: #000000;
-    background-color: #ffffff;
     font-family: 'Fira Code', monospace;
     text-align: left;
     margin: 333x 333px 333px 333px;
