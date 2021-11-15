@@ -3,6 +3,24 @@
 {background-color: black}
 {color: white}
 
+a:link {
+    color: green;
+    text-decoration: none;
+}
+
+a:visited {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
 body {
     font-family: 'Fira Code', monospace;
     text-align: left;
