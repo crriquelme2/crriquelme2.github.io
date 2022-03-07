@@ -1,8 +1,4 @@
-  <head>
-    <title>Cristian Riquelme
-    </title>
-  </head>
-   
+
   <body>
     <div class="">
       <p>
