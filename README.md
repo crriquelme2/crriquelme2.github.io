@@ -1,16 +1,5 @@
 
-  <body>
-    <div class="">
-      <p>
-      <b>Cristian Riquelme</b>
-      </p>
-      <p>
-      Biologist, BSc
-      </p>
-        <hr>
-      <p>
-      Peer-reviewed publications
-      </p>
+      ##Peer-reviewed publications
         <ul>
           <li><b>Riquelme, C.</b>, Rajchenberg, M. (2021). Aphyllophoroid fungi (Basidiomycota) of Chile: An annotated checklist. <i>Mycotaxon</i> 136(3), 691. <a href="https://doi.org/10.5248/136.691">https://doi.org/10.5248/136.691</a> <a href="https://www.researchgate.net/profile/Cristian-Riquelme-4/publication/355684954_Aphyllophoroid_fungi_Basidiomycota_of_Chile_an_annotated_checklist">PDF</a></li>
           <li>Rajchenberg, M., Pildain, M. B., de Errasti, A., <b>Riquelme, C.</b>, Becerra, J., Torres-Díaz, C., Cabrera-Pardo, J. R. (2021). Species and genera in <i>Aleurodiscus</i> s.l. (Russulales, Basidiomycota) as viewed from the Southern Hemisphere. <i>Mycologia</i> 113(6): 1264-1277. <a href="http://dx.doi.org/10.1080/00275514.2021.1940671">http://dx.doi.org/10.1080/00275514.2021.1940671</a> <a href="https://www.researchgate.net/profile/Cristian-Riquelme-4/publication/354076389_Species_and_genera_in_Aleurodiscus_sensu_lato_as_viewed_from_the_Southern_Hemisphere">PDF</a></li>
