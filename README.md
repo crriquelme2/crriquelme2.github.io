@@ -8,7 +8,7 @@
 
 ## Academic profiles
 
--[Google scholar](https://scholar.google.com/citations?user=6OfBsn0AAAAJ&hl)
+-  [Google scholar](https://scholar.google.com/citations?user=6OfBsn0AAAAJ&hl)
 
           <li><a href="https://profiles.impactstory.org/u/0000-0003-1652-571X">Impactstory</a></li>
           <li><a href="https://www.ipni.org/a/20046658-1">IPNI</a></li>
