@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Resources
+## Research
 
 -  [Latest Sci-Hub working domain](https://lovescihub.wordpress.com)
 
