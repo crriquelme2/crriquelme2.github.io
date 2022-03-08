@@ -1,4 +1,4 @@
-# Welcome to my personal academic website
+#
 
 ## Peer-reviewed publications
 
