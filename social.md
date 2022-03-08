@@ -16,6 +16,7 @@ layout: default
 ## Social media
 
 -  [Goodreads](https://www.goodreads.com/user/show/62313642-cristian-riquelme)
+-  [iNaturalist](https://inaturalist.mma.gob.cl/people/crriquelme2)
 -  [Instagram](https://www.instagram.com/crriquelme2/)
 -  [LinkedIn](https://www.linkedin.com/in/crriquelme2/)
 -  [Twitter](https://twitter.com/crriquelme2/)
