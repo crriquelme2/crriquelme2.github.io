@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Publications](./publications.html)
+| [Publications](./publications.html) | [Resources](./resources.html) |
 
 ## Academic profiles
 
