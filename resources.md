@@ -4,6 +4,6 @@ layout: default
 
 ## Resources
 
-_yay_
+-  [Latest Sci-Hub working domain](https://lovescihub.wordpress.com)
 
 [back](./)
