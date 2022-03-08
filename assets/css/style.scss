@@ -2,4 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-header {: style="color: black;"}
+header 
+p {
+  color: black
+}
