@@ -8,7 +8,7 @@ layout: default
 ## Academic profiles
 
 -  [Google scholar](https://scholar.google.com/citations?user=6OfBsn0AAAAJ&hl)
--  [Impactsory](https://profiles.impactstory.org/u/0000-0003-1652-571X)
+-  [Impactstory](https://profiles.impactstory.org/u/0000-0003-1652-571X)
 -  [IPNI](https://www.ipni.org/a/20046658-1)
 -  [Loop](https://loop.frontiersin.org/people/900765/overview)
 -  [ORCID](https://orcid.org/0000-0003-1652-571X)
