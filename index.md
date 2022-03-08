@@ -22,5 +22,3 @@ layout: default
 -  [LinkedIn](https://www.linkedin.com/in/crriquelme2/)
 -  [Twitter](https://twitter.com/crriquelme2/)
 
-## Resources
--  [Latest Sci-Hub working domain](https://lovescihub.wordpress.com)
