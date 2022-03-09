@@ -2,4 +2,4 @@
 layout: default
 ---
 
-- [Publications]
+- [Keyword](./_posts/yyyymmdd_keyword.html)
