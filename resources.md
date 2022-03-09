@@ -11,6 +11,8 @@ layout: default
 - [Index Fungorum](http://www.indexfungorum.org/names/Names.asp)
 - [MushroomExpert.Com](https://www.mushroomexpert.com/index.html)
 - [MycoBank](https://www.mycobank.org/)
+- [MyCoPortal](https://mycoportal.org/portal/index.php)
+- [MykoWeb](https://www.mykoweb.com/index.html)
 
 ## Research
 
