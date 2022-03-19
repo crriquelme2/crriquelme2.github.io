@@ -13,6 +13,7 @@ layout: default
 - [MycoBank](https://www.mycobank.org/)
 - [MyCoPortal](https://mycoportal.org/portal/index.php)
 - [MykoWeb](https://www.mykoweb.com/index.html)
+- [Polypores](http://mykoweb.prf.jcu.cz/polypores/)
 
 ## Research
 
