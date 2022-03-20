@@ -3,7 +3,7 @@ layout: default
 ---
 
 - [Blog (ES)](./blog.html)
-- [Described taxa](./taxa.html)
+- [Taxonomic contributions](./taxa.html)
 - [Projects](./projects.html)
 - [Publications](./publications.html)
 - [Resources](./resources.html)
