@@ -7,4 +7,4 @@ layout: default
 - [Publications](./publications.html)
 - [Resources](./resources.html)
 - [Social](./social.html)
-- [Taxonomic contributions](./taxa.html)
+- [Taxonomic contributons](./taxa.html)
