@@ -11,6 +11,7 @@ layout: default
 
 - [ChEBI](https://www.ebi.ac.uk/chebi/)
 - [ChemIDplus](https://chem.nlm.nih.gov/chemidplus/chemidlite.jsp)
+- [ChemSpider](http://www.chemspider.com/)
 - [KEGG COMPOUND Database](https://www.genome.jp/kegg/compound/)
 - [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/)
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
