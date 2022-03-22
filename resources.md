@@ -7,6 +7,14 @@ layout: default
 - [Obsidian](https://obsidian.md/)
 - [Readwise](https://readwise.io/i/cristian_riquelme)
 
+## Botany
+
+- [Flora Arbórea de Chile](https://flora-arborea-chile.linnaeus.naturalis.nl/linnaeus_ng/app/views/introduction/topic.php?id=3416&epi=186)
+- [Index Herbariorum](http://sweetgum.nybg.org/science/ih/)
+- [Plants of the World Online](https://powo.science.kew.org/)
+- [The Endemic Plants of Chile](https://chileanendemics.rbge.org.uk/)
+- [The World Flora Online](http://www.worldfloraonline.org/)
+
 ## Chemistry
 
 - [ChEBI](https://www.ebi.ac.uk/chebi/)
