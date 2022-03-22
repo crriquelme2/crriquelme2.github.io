@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Resources
+
 ## Apps 
 
 - [Obsidian](https://obsidian.md/)
