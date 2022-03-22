@@ -39,6 +39,7 @@ layout: default
 - [MyCoPortal](https://mycoportal.org/portal/index.php)
 - [MykoWeb](https://www.mykoweb.com/index.html)
 - [Polypores](http://mykoweb.prf.jcu.cz/polypores/)
+- [UNITE](https://unite.ut.ee/)
 
 ## Mycology journals (Impact Factor 2020)
 
