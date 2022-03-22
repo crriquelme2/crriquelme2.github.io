@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## Chemistry
+
+- [ChEBI](https://www.ebi.ac.uk/chebi/)
+- [ChemIDplus](https://chem.nlm.nih.gov/chemidplus/chemidlite.jsp)
+- [KEGG COMPOUND Database](https://www.genome.jp/kegg/compound/)
+- [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/)
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+
 ## Mycology
 
 - [Agarics & Agaricales](http://www.agaric.us/)
