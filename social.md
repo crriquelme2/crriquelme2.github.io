@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Social
+
 ## Academic profiles
 
 - [Google scholar](https://scholar.google.com/citations?user=6OfBsn0AAAAJ&hl)
