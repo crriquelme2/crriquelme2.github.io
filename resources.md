@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Apps 
+
+- [Obsidian](https://obsidian.md/)
+- [Readwise](https://readwise.io/i/cristian_riquelme)
+
 ## Chemistry
 
 - [ChEBI](https://www.ebi.ac.uk/chebi/)
