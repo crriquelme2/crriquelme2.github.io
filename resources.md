@@ -49,9 +49,14 @@ layout: default
 - [Studies in Mycology (IF: 16.097)](https://www.journals.elsevier.com/studies-in-mycology)
 - [Sydowia (IF: 0.864)](http://www.sydowia.at/)
 
+## Philosophy
+
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)
+
 ## Research
 
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
+- [Internet Archive](https://archive.org/)
 - [Libgen](http://libgen.rs/)
 - [Sci-Hub](https://lovescihub.wordpress.com)
 
