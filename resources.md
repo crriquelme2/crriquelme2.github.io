@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Apps 
+## Apps 
 
 - [Obsidian](https://obsidian.md/)
 - [Readwise](https://readwise.io/i/cristian_riquelme)
