@@ -11,5 +11,3 @@ layout: default
 - Rajchenberg, M., Pildain, M. B., Cajas-Madriaga, D., De Errasti, A., **Riquelme, C.**, Becerra, J. (2019). New Poroid Hymenochaetaceae (Basidiomycota, Hymenochaetales) from Chile. _Mycological Progress_ 18(6), 865-877. [https://doi.org/10.1007/s11557-019-01495-1](https://doi.org/10.1007/s11557-019-01495-1) [PDF](https://www.researchgate.net/profile/Cristian-Riquelme-4/publication/333264033_New_Poroid_Hymenochaetaceae_Basidiomycota_Hymenochaetales_from_Chile)
 
 [back](./)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7662053231541389" crossorigin="anonymous"></script>
