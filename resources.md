@@ -47,7 +47,7 @@ layout: default
 
 - [Acta Mycologica (IF: N/A)](https://pbsociety.org.pl/journals/index.php/am/)
 - [Austrian Journal of Mycology (IF: N/A)](https://www.univie.ac.at/oemykges/oezp/)
-- [Boletín Micológico](https://revistas.uv.cl/index.php/Bolmicol/index)
+- [Boletín Micológico (IF: N/A)](https://revistas.uv.cl/index.php/Bolmicol/index)
 - [Cryptogamie, Mycologie (IF: 2.231)](https://bioone.org/journals/cryptogamie-mycologie)
 - [Czech Mycology (IF: N/A)](http://www.czechmycology.org/en/czech-mycology.php)
 - [Current Research in Environmental & Applied Mycology (IF: N/A)](https://www.creamjournal.org/)
