@@ -8,11 +8,11 @@ layout: default
   method="POST"
 >
   <label>
-    Your email:
+    Email:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
