@@ -9,6 +9,5 @@ layout: default
 - [Social](./social.html)
 - [Taxonomic contributions](./taxa.html)
 
-<footer>
 [Contact](./contact.html)
-</footer>
+
