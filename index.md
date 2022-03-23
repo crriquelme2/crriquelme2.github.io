@@ -12,3 +12,4 @@ layout: default
 [Contact](./contact.html)
 
 <button type="mailto:crriquelme2@gmail.com">Contact</button>
+<p><a href="mailto:crriquelme2@gmail.com">Contact me</a></p>
