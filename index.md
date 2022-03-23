@@ -8,3 +8,5 @@ layout: default
 - [Resources](./resources.html)
 - [Social](./social.html)
 - [Taxonomic contributions](./taxa.html)
+
+[Contact](./contact.html)
