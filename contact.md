@@ -5,6 +5,8 @@ layout: default
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mzbovlja" method="POST">
         
+        <p><input type="text" name="name" placeholder="Name" required></p>
+        
         <p><input type="email" name="email" placeholder="Email" required></p>
         
         <p><textarea name="message" rows="10" cols="30" placeholder="Comments" required></textarea></p>
