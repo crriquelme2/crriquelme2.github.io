@@ -22,7 +22,7 @@ layout: default
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
 <div class="inat-widget">
-    <div class="inat-widget-header"> https
+    <div class="inat-widget-header">
       <a href="https://inaturalist.mma.gob.cl"><img alt="iNaturalist Chile" src="https://static.inaturalist.org/sites/18-logo.svg?1612478254" /></a>  
     </div>
   <script type="text/javascript" charset="utf-8" src="https://inaturalist.mma.gob.cl/observations/crriquelme2.widget?layout=small&limit=18&order=desc&order_by=observed_on"></script>
