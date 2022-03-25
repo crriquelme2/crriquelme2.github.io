@@ -25,14 +25,11 @@ layout: default
     </div>
   <script type="text/javascript" charset="utf-8" src="https://inaturalist.mma.gob.cl/observations/crriquelme2.widget?layout=small&limit=18&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
-    <tr class="inat-user">
-        
       <td class="inat-value">
         <strong>
             <a href="https://inaturalist.mma.gob.cl/observations/crriquelme2">View crriquelme2's observations »</a>
         </strong>
       </td>
-      </tr>
   </table>
 </div>
 
