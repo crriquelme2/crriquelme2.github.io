@@ -32,7 +32,7 @@ layout: default
             <a href="https://inaturalist.mma.gob.cl/observations/crriquelme2">View crriquelme2's observations »</a>
         </strong>
       </td>
-    
+      </tr>
   </table>
 </div>
 
