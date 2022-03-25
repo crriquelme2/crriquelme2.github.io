@@ -26,9 +26,7 @@ layout: default
   <script type="text/javascript" charset="utf-8" src="https://inaturalist.mma.gob.cl/observations/crriquelme2.widget?layout=small&limit=18&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
     <tr class="inat-user">
-        <td class="inat-user-image">
-          <a border="0" href="https://inaturalist.mma.gob.cl/observations/crriquelme2"><img class="usericon" src="https://static.inaturalist.org/attachments/users/icons/291929/thumb.jpg?1610317124" /></a>
-        </td>
+        
       <td class="inat-value">
         <strong>
             <a href="https://inaturalist.mma.gob.cl/observations/crriquelme2">View crriquelme2's observations »</a>
