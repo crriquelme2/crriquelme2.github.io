@@ -25,7 +25,7 @@ layout: default
     <div class="inat-widget-header">
       <a href="https://inaturalist.mma.gob.cl"><img alt="iNaturalist Chile" src="https://static.inaturalist.org/sites/18-logo.svg?1612478254" /></a>  
     </div>
-  <script type="text/javascript" charset="utf-8" src="https://inaturalist.mma.gob.cl/observations/crriquelme2.widget?layout=small&limit=50&order=desc&order_by=observed_on"></script>
+  <script type="text/javascript" charset="utf-8" src="https://inaturalist.mma.gob.cl/observations/crriquelme2.widget?layout=small&limit=45&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
     <tr class="inat-user">
         <td class="inat-user-image">
