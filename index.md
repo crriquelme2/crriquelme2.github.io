@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- [Blog (ES)](./blog.html)
+- [Blog](./blog.html)
 - [Fungal conservation assessments](./conservation.html)
 - [Fungal taxonomic contributions](./taxa.html)
 - [Projects](./projects.html)
