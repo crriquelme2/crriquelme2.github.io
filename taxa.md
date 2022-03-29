@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Taxonomic contributions
+# Fungal taxonomic contributions
 
 ## New species
 
