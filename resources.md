@@ -31,6 +31,7 @@ layout: default
 - [Agarics & Agaricales](http://www.agaric.us/)
 - [Aphyllophoroid Fungi of Chile](https://mycotaxon.com/resources/checklists/riquelme-v136-3-checklist.pdf)
 - [Cyberliber](http://www.cybertruffle.org.uk/cyberliber/index.htm)
+- [Crust Fungi](https://www.crustfungi.com/)
 - [Crusts & Jells](https://www.aphyllo.net/home.php)
 - [EnsemblFungi](https://fungi.ensembl.org/index.html)
 - [Fungi of Chile](http://www.cybertruffle.org.uk/chilfung/eng/index.htm)
