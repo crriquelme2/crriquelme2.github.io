@@ -32,6 +32,7 @@ layout: default
 - [Aphyllophoroid Fungi of Chile](https://mycotaxon.com/resources/checklists/riquelme-v136-3-checklist.pdf)
 - [Cyberliber](http://www.cybertruffle.org.uk/cyberliber/index.htm)
 - [Crusts & Jells](https://www.aphyllo.net/home.php)
+- [EnsemblFungi](https://fungi.ensembl.org/index.html)
 - [Fungi of Chile](http://www.cybertruffle.org.uk/chilfung/eng/index.htm)
 - [GlobalFungi](https://globalfungi.com/)
 - [Index Fungorum](http://www.indexfungorum.org/names/Names.asp)
